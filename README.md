@@ -221,7 +221,9 @@ Formal EditorConfig specification can be found [here](https://editorconfig-speci
 ### Husky
 While working on an Sunshine development team, it is important that all JavaScript code linting and unit tests (if written) are passing before committing code, especially because we are using continuous integration.
 Git hooks allow custom scripts to be ran on your repository and we will run them using [Husky](https://github.com/typicode/husky).
+
 Any time you try and commit, the hooks will run your lint command first. The hooks will not allow your commit to pass if the lint or tests are failing.
+
 ---
 
 ## Folder structure
