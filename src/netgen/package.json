@@ -1,0 +1,8 @@
+{
+    "name": "netgen",
+    "version": "0.0.1",
+
+    "dependencies": {
+        "cross-env": "6.0.3"
+    }
+}

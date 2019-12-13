@@ -1,0 +1,5 @@
+# Allow linting Storybook configuration
+!.storybook
+
+# Third party
+**/node_modules
