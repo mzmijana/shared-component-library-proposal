@@ -249,7 +249,7 @@ Any time you try and commit, the hooks will run your lint command first. The hoo
 │   │   └── README.md
 │   └── netgen
 │       ├── src
-│       │   └── <human development files>
+│       │   └── <netgen development files>
 │       ├── stories
 │       │   └── <human story files>
 │       ├── .npmingore
